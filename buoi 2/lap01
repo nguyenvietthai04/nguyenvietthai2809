@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Ten bai bao</title>
+    <meta name="description" content="Bai tap thuc hanh lap trinh Web buoi 1 bai tap 1">
+    <meta name="keywords" content="Lap trinh Web co ban">
+</head>
+<body>
+    <h1>Ten bai bao</h1>
+    <h3>Noi dung doan van tom tat bai bao</h3>
+    <p>Moi doan van trong bai bao duoc the hien bang the P.</p>
+</body>
+</html>
